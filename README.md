@@ -1,4 +1,25 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+## Code Talks
+
+
+# Technology
+## React Native
+
+# Tools
+
+- Firebase
+- React Navigation
+- Formik
+- React Native Flash Message
+- React Native Modal
+- React Native Vector Icons
+
+## Features
+
+- Becoming a member of the system using the registration form.
+- Being able to log in to the system with the registered information.
+- Creating chat rooms and chatting
+
+
 
 # Getting Started
 
@@ -73,8 +94,3 @@ If you can't get this to work, see the [Troubleshooting](https://reactnative.dev
 To learn more about React Native, take a look at the following resources:
 
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
-# CodeTalks
