@@ -2,7 +2,7 @@
 
 
 # Technology
-## React Native
+- React Native
 
 # Tools
 
